@@ -146,4 +146,5 @@ prueba <- c(2,4,6,3,1)
 prueba_ordenada <- sort(prueba)
 
 
-boca <- c(1,2,3)
+boca <- c(1,2)
+dim <- c(4,3)
